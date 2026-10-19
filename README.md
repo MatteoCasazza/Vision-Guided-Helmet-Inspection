@@ -489,11 +489,11 @@ print(np.round(ee_pose, 2))
 
 **Group 4**, *Innovative Applications of Industrial Robotics*, Politecnico di Milano, A.Y. 2025/2026.
 
-- Cosimo De Luca
 - Matteo Casazza
-- Francesco Giglio
-- Marco Giavazzi
+- Cosimo De Luca
 - Alberto Feltrin
+- Marco Giavazzi
+- Francesco Giglio
 - Donato Miraglia
 
 Supervisor: Giovanni Bianchi.
