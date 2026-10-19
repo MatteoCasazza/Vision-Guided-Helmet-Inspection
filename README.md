@@ -1,4 +1,4 @@
-# Vision-Guided Helmet Inspection
+# Vision-Guided Helmet Inspection and Marking
 
 <p>
   <img src="https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white" alt="Python 3.9+">
